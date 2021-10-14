@@ -1,1 +1,1 @@
-A Clone and Go Template for Redux + React
+A Clone and Go Template for Redux + React + Firebase
